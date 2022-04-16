@@ -8,14 +8,35 @@ body {
     font-family: Arial, sans-serif;
 }
 header, section {
+    background-color: #ace798;
+    font-family: 'Roboto Slab', serif;
+    color: white;
     padding: 20px;
 }
 p, li {
     line-height: 1.5em;
 }
-
+#homework{
+    background-color: #d099d6;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
 #inspiration {
-    background-color: #F0F0F0;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    background-color: #f0e490;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
+
+#tutorials{
+    background-color:rgb(139, 183, 221);
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
+images, img{
+    width: 10vw;
+    width: 10vw;
+}
+images, img1{
+    width: 10vw;
+    width: 10vw;
 }
