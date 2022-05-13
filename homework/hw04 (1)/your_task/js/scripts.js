@@ -22,14 +22,6 @@ const getTracks = (term) => {
         "${term}" and load them into the #tracks section 
         of the DOM...`);
 };
-fetch(baseURL + '?type=track&q=' + term)
-        .then(response => response.json())
-        .then(data => {
-            if (data.length > 0){
-                const firstArtist = data[0];
-                elem.innerHTML += getArtistHTML(firstArtist);
-            }
-        })
 
 const getAlbums = (term) => {
     console.log(`
