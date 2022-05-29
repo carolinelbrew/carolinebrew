@@ -1,0 +1,146 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=AppleMyungjo&display=swap" rel="stylesheet" /></head><body><div class="v17_70"><div class="v2_2"></div><div class="v3_6"></div><div class="v10_38"></div><span class="v3_5">Caroline Brew</span><span class="v10_39">Contact Me</span><span class="v3_9">About Me</span><span class="v3_7">Resume            Portfolio          Contact Me</span><span class="v3_10">Hi! My name is Caroline and I am a student at Northwestern University studying... blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah </span><span class="v10_40">Email: carolinebrew2024@u.northwestern.edu
+Twitter: @carolinelbrew
+Phone Number: 408-630-0426</span><div class="v3_4"></div><div class="v3_8"></div></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v17_70 {
+  width: 559px;
+  height: 533px;
+  background: url("../images/v17_70.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_2 {
+  width: 559px;
+  height: 533px;
+  background: rgba(161,181,216,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_6 {
+  width: 559px;
+  height: 88px;
+  background: rgba(115,130,144,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v10_38 {
+  width: 559px;
+  height: 130px;
+  background: rgba(115,130,144,1);
+  opacity: 1;
+  position: absolute;
+  top: 403px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_5 {
+  width: 164px;
+  color: rgba(255,252,247,1);
+  position: absolute;
+  top: 14px;
+  left: 211px;
+  font-family: AppleMyungjo;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_39 {
+  width: 136px;
+  color: rgba(255,252,247,1);
+  position: absolute;
+  top: 419px;
+  left: 225px;
+  font-family: AppleMyungjo;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_9 {
+  width: 122px;
+  color: rgba(255,252,247,1);
+  position: absolute;
+  top: 114px;
+  left: 279px;
+  font-family: AppleMyungjo;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_7 {
+  width: 559px;
+  color: rgba(255,252,247,1);
+  position: absolute;
+  top: 59px;
+  left: 0px;
+  font-family: AppleMyungjo;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_10 {
+  width: 262px;
+  color: rgba(255,252,247,1);
+  position: absolute;
+  top: 160px;
+  left: 264px;
+  font-family: AppleMyungjo;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_40 {
+  width: 364px;
+  color: rgba(255,252,247,1);
+  position: absolute;
+  top: 455px;
+  left: 112px;
+  font-family: AppleMyungjo;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_4 {
+  width: 559px;
+  background: url("../images/v3_4.png");
+  opacity: 1;
+  position: absolute;
+  top: 47px;
+  left: 0px;
+  border: 1px solid rgba(255,252,247,1);
+}
+.v3_8 {
+  width: 161px;
+  height: 241px;
+  background: url("../images/v3_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 125px;
+  left: 32px;
+  overflow: hidden;
+}
+</style>
