@@ -18,7 +18,7 @@ body {
 }
 a {
   transition: all 0.3s ease;
-  color: #38B;
+  color: #707070;
 }
 
 a:hover,
@@ -55,7 +55,7 @@ blockquote {
 }
 
 .tm-text-primary {
-  color: #37A;
+  color: #A1B5D8;
 }
 
 .tm-font-big {
@@ -97,11 +97,11 @@ blockquote {
 
 .navbar-brand:hover,
 .tm-navbar.scroll .navbar-brand:hover {
-  color: #38B;
+  color: #A1B5D8;
 }
 
 .tm-navbar.scroll .navbar-brand {
-  color: #369;
+  color: #A1B5D8;
 }
 
 .nav-item {
@@ -113,14 +113,14 @@ blockquote {
 }
 
 .tm-navbar.scroll .tm-nav-link {
-  color: #369;
+  color: #A1B5D8;
 }
 
 .tm-navbar.scroll .tm-nav-link:hover,
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
   color: #FFF;
-  background-color: #369;
+  background-color: #A1B5D8;
 }
 
 .navbar-toggler {
@@ -144,13 +144,13 @@ blockquote {
 
 /* Hero */
 #photo {
-  width: 15vw;
+  width: 20vw;
   padding-right: 10%;
 
 }
 #infinite {
 	background-color: #222;
-  background-image: url(../img/infinite-loop-01.jpg);
+  background-image: url(../img/nuu.jpeg);
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
@@ -204,9 +204,7 @@ blockquote {
   text-shadow: 2px 2px 2px #333;
 }
 
-.tm-hero-subtitle {
-  text-shadow: 2px 2px 2px #333;
-}
+
 
 .tm-intro-next {
   position: absolute;
@@ -233,7 +231,7 @@ blockquote {
 .tm-down-arrow {
   	color: #FFF;
     cursor: pointer;
-    background: #357;
+    background: #A1B5D8;
     padding: 15px 40px;
     transition: all 0.3s ease;
 }
@@ -241,7 +239,7 @@ blockquote {
 .tm-down-arrow:hover,
 .tm-down-arrow:focus {
   color: #FFF;
-  background: #37A;
+  background: #A1B5D8;
   padding: 20px 50px;
 }
 
@@ -250,18 +248,14 @@ blockquote {
 /* Testimonials */
 #testimonials {
   color: white;
-  background-image: url(../img/infinite-loop-02.jpg);
+
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
   position: relative;
 }
 
-@media (max-width: 991px) {
-  #testimonials {
-    background-image: url(../img/infinite-loop-02-mobile.jpg);
-  }
-}
+
 
 .tm-testimonials-content {
   position: relative;
@@ -271,7 +265,7 @@ blockquote {
 .tm-bg-overlay {
   width: 100%;
   height: 100%;
-  background: rgba(20, 70, 80, 0.2);
+  background: #A1B5D8;
   position: absolute;
   top: 0;
   left: 0;
@@ -327,7 +321,7 @@ blockquote {
 .slick-dots li button:focus:before,
 .slick-dots li.slick-active button:before {
   opacity: 1;
-  color: #3ba0dd;
+  color: #A1B5D8;
 }
 
 .tm-testimonials-carousel .slick-dots li button:before {
@@ -352,7 +346,7 @@ blockquote {
   position: relative;
   float: left;
   overflow: hidden;
-  background: #3085a3;
+  background: #A1B5D8;
   text-align: center;
   cursor: pointer;
 }
@@ -423,7 +417,7 @@ blockquote {
 /*---------------*/
 
 figure.effect-honey {
-  background: #4a3753;
+  background: #A1B5D8;
   max-width: 220px;
 }
 
@@ -443,7 +437,7 @@ figure.effect-honey figcaption::before {
   left: 0;
   width: 100%;
   height: 10px;
-  background: #38C;
+  background: #A1B5D8;
   content: "";
   -webkit-transform: translate3d(0, 10px, 0);
   transform: translate3d(0, 10px, 0);
@@ -491,20 +485,11 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-color: #001828;
-  background-image: url(../img/infinite-loop-03.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 980px;
-  position: relative;
-  padding-bottom: 50px;
-  padding-top: 100px;
+  background-color: #A1B5D8;
+  align-items: center;
 }
 
-.contact-item {
-  margin-left: 20px;
-  margin-bottom: 50px;
-}
+
 
 .item-link {
   display: flex;
@@ -515,11 +500,12 @@ figure.effect-honey:hover h2 i {
 .item-link span {
   color: white;
   transition: all 0.3s ease;
+  align-items: center;
 }
 
 .item-link:hover i,
 .item-link:hover span {
-  color: #3496d8;
+  color: #738290;
 }
 
 .tm-input {
@@ -535,14 +521,14 @@ figure.effect-honey:hover h2 i {
 .tm-btn-submit {
 	font-size: 0.9em;
 	color: #fff;
-	background-color: #369;
+	background-color: #A1B5D8;
 	width: 50%;
 	margin-bottom: 60px;
 }
 
 .tm-btn-submit:hover {
 	color: #fff;
-	background-color: #38B;
+	background-color: #A1B5D8;
 }
 
 ::placeholder {
@@ -574,7 +560,7 @@ figure.effect-honey:hover h2 i {
 }
 
 .tm-footer a:hover {
-	color: #9CF;
+	color: #A1B5D8;
 }
 
 .tm-footer-link {
@@ -583,7 +569,7 @@ figure.effect-honey:hover h2 i {
 
 .tm-footer-link:hover,
 .tm-footer-link:focus {
-  color: #38B;
+  color: #A1B5D8;
   text-decoration: none;
 }
 
@@ -651,7 +637,7 @@ p {
   }
 
   .navbar-collapse .nav-link {
-    color: #707070;
+    color: #A1B5D8;
 	padding-right: 20px;
   }
 }
