@@ -412,12 +412,6 @@ blockquote {
   font-size: 68.5%;
 }
 	
-
-	
-	/* padding for whole body */
-	
-	
-	/* styling body */
 	.gallery {
 		max-width: 1200px;
 		margin: auto;
@@ -466,7 +460,7 @@ blockquote {
 	
 	/* content decoration */
 	.content {
-		background-color: white;
+		background-color: #FFFCF7;
 		padding: 10px;
 		border: 1px solid gray;
     border-radius: 10px;
@@ -553,14 +547,23 @@ figure.effect-honey:hover h2 i {
 }
 
 .tm-container-gallery {
-	padding-top: 30px;
+	padding-top: 5px;
 	}
+/* Skills */
+
+
+.skills{
+	background-color: #A1B5D8;
+  color: #707070;
+  padding-top: 40px;
+}
+
 
 /* Contact */
 
 #contact {
-  color: white;
-  background-color: #A1B5D8;
+  color: #A1B5D8;
+  background-color: white;
   align-items: center;
 }
 
@@ -573,14 +576,14 @@ figure.effect-honey:hover h2 i {
 
 .item-link i,
 .item-link span {
-  color: white;
+  color: #A1B5D8;
   transition: all 0.3s ease;
   align-items: center;
 }
 
 .item-link:hover i,
 .item-link:hover span {
-  color: #738290;
+  color: lightblue;
 }
 
 .tm-input {
