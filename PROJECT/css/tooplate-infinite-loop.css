@@ -574,40 +574,6 @@ figure.effect-honey:hover h2 i {
   align-items: center;
 }
 
-.item-link i,
-.item-link span {
-  color: #A1B5D8;
-  transition: all 0.3s ease;
-  align-items: center;
-}
-
-.item-link:hover i,
-.item-link:hover span {
-  color: lightblue;
-}
-
-.tm-input {
-	margin: 0 0 20px 0;
-	width: 90%;
-  padding: 8px 20px;
-  border-radius: 6px;
-  border: 1px solid white;
-  background: transparent;
-  color: white;
-}
-
-.tm-btn-submit {
-	font-size: 0.9em;
-	color: #fff;
-	background-color: #A1B5D8;
-	width: 50%;
-	margin-bottom: 60px;
-}
-
-.tm-btn-submit:hover {
-	color: #fff;
-	background-color: #A1B5D8;
-}
 
 ::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
