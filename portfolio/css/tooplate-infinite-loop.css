@@ -149,8 +149,7 @@ blockquote {
 
 }
 #infinite {
-	background-color: #222;
-  background-image: url("https://images.unsplash.com/photo-1641058496379-6d029f9524be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80");
+	background-color: #A1B5D8;
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
