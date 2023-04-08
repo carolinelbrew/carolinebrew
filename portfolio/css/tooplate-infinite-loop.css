@@ -150,6 +150,7 @@ blockquote {
 }
 #infinite {
 	background-color: #A1B5D8;
+  background-image: url("links/northwestern.jpg");
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
